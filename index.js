@@ -1,3 +1,3 @@
 module.exports = function verifyEmail(email){
-    console.log("To Be Implemented")
+    console.log("On Feature Branch")
 }
